@@ -1,4 +1,4 @@
-## Функция makeFriendsList(friends) ##
+# Функция makeFriendsList(friends)
 
 Необходимо реализовать функцию `makeFriendsList`, которая отобразит переданный массив
 друзей на странице в виде стандартного html списка (ul, li).
